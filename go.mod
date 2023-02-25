@@ -1,3 +1,3 @@
-module awesomeProject
+module firstPackage
 
 go 1.20
